@@ -14,7 +14,7 @@ playbook's gameplan lists for the situation. Call Sheet changes that:
 - **Play tags and a trick-play dial.** Tag plays (your created plays, a red-zone package, gadget plays), then turn
   them up or down with one number.
 - **Defense too.** Rules can reweight your defensive suggestions for the look the offense shows.
-- **Auto-playcall.** Let the CPU call your plays, and switch it on or off mid-game. Proven in a real game.
+- **Auto-playcall.** Let the CPU call your plays, and switch it on or off mid-game.
 
 Call Sheet has three parts, and the editor installs all of them for you:
 
@@ -27,7 +27,7 @@ Call Sheet has three parts, and the editor installs all of them for you:
 You don't need a `.fbmod`. Call Sheet works with the playbook you already play with.
 
 > **Version 0.9.0 is a first prototype.** Some features haven't been tested in a real game yet. The
-> [changelog](CHANGELOG.md) lists exactly which ones. Auto-playcall has been proven in a real game since 0.9.0.
+> [changelog](CHANGELOG.md) lists exactly which ones.
 
 ---
 
@@ -199,8 +199,7 @@ also set a **Hotkey** to toggle it without leaving the game.
 
 Know before you use it:
 
-- **It's proven in a real game** (2026-10-07): the CPU called the plays on offense and defense, control came back,
-  and every hotkey press registered. The hotkey works while the game or Call Sheet is in front, with a short beep
+- **The hotkey** works while the game or Call Sheet is in front, with a short beep
   (switch the beep off on the same page).
 - **It's both sides or nothing.** A separate offense / defense switch isn't possible yet.
 - **It uses the game's own CPU play calling for your team.** The CPU picks with its own logic, not from your rules or
